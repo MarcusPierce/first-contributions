@@ -10530,3 +10530,4 @@ Marica Marian
 - [Sirisha] (https://github.com/Sirisha-embedded)
 - [Marlena Chatzigrigoriou](https://github.com/marlenachatzigrigoriou)
 - [Yash Shah](https://github.com/Waryserpant122)
+- [MarcusPierce](https://github.com/MarcusPierce)
